@@ -1,0 +1,471 @@
+.header {
+    background-color: rgba(243, 241, 241, 0.4);
+
+}
+
+.logo-header {
+    margin: 0px 0px 0px 40px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.homepage-text {
+    position: absolute;
+    right: 60px;
+    margin-top: 180px;
+    color: #fff;
+    font-size: 50px;
+    width: 600px;
+    font-family: Georgia;
+    font-style: italic;
+
+
+}
+
+.homepage-text-sm {
+    position: absolute;
+    text-align: center;
+    margin: 160px 0px auto 0px;
+    color: #fff;
+    font-size: 30px;
+    width: 100%;
+    font-family: Georgia;
+    font-style: italic;
+
+
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, .98);
+    border-bottom: 1px solid #636363;
+    opacity: 0.9;
+    height: 130px;
+
+
+}
+
+
+
+.nav-item {
+    padding-top: 5px;
+    margin: 0px 5px 0px 5px;
+    font-weight: 600;
+    height: 100%;
+
+
+
+}
+
+.btn {
+    background-color: #9acd32;
+    border: none;
+}
+
+.tg-button {
+    margin-top: -80px;
+    margin-right: -20px;
+    border: none;
+}
+
+.welcome-1 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    font-family: Georgia;
+    font-style: bold;
+}
+
+.description-2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.col-sm-4 {
+    padding: 20px;
+
+
+}
+
+.centre-col {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+
+}
+
+.offer {
+    background-color: #f7f7f7;
+    padding: 20px 0px 20px 0px;
+
+
+
+}
+
+.head {
+    font-size: 18px;
+    color: #636363;
+    margin: 15px 0px 2px 25px;
+}
+
+.what {
+    font-size: 21px;
+    color: #9acd32;
+    margin: 0px 0px 20px 25px;
+
+}
+
+.description {
+    font-size: 13px;
+    color: #636363;
+    margin: 0px 0px 20px 25px;
+
+
+}
+
+.link-offer {
+    margin-left: 13px;
+    color: #1f4675;
+
+}
+
+.fa-angle-double-right {
+    font-size: 10px;
+
+}
+
+.footer {
+    background-color: #3a3a3a;
+    color: #fff;
+}
+
+.links {
+    font-size: 17px;
+    font-weight: 200;
+    border-bottom: 1px solid #fff;
+    margin-top: 40px;
+    padding-bottom: 10px;
+
+
+}
+
+.footer-links {
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #fff;
+
+}
+
+.links-footer-3 {
+    width: 75%;
+    float: right;
+
+}
+
+.links-footer-2 {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.links-footer-1 {
+    width: 75%;
+}
+
+.description-contact-2 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+
+
+}
+
+.welcome-3 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 50px;
+    color: #9ACD32;
+}
+
+.contact-wecome-3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.tel-welcome-3 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #636363;
+}
+
+.welcome-2 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    font-weight: 450;
+    font-style: italic;
+
+}
+
+.contact-heading {
+    text-align: left;
+    color: #9ACD32;
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.offer-items {
+    font-weight: 500;
+
+
+}
+
+.offer-contact {
+    margin-bottom: 30px;
+}
+
+.welcome-team {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+
+    font-weight: 450;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+
+.description-contact-team {
+
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 50px;
+
+
+}
+
+
+
+.participants {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    margin: 12px 20px 74px 20px;
+
+
+
+
+}
+
+.participants-img {
+    width: 100%;
+
+}
+
+
+.bio {
+    margin: 21px 10px 10px 10px;
+    
+}
+
+.job {
+    height: 50px;
+}
+
+
+.name {
+    color: #1f4675;
+    font-size: 23px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -5px;
+}
+
+.team-emeil {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px) {
+
+    .navbar-toggler {
+        border: none;
+    }
+
+
+
+    .navbar-collapse {
+        right: 0;
+        position: fixed;
+        top: 0;
+        height: 100%;
+        width: 300px;
+        text-align: left;
+        background-color: #fff;
+        padding-left: 30px;
+        color: #636363;
+
+
+
+    }
+
+    .navbar {
+        opacity: 1;
+    }
+
+    .nav-item {
+        font-size: 19px;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #ccc;
+        padding: 15px 15px 15px 0px;
+    }
+
+    .angle {
+        color: #ccc;
+        float: right;
+        font-size: 18px;
+        font-weight: 400;
+        margin: 6px 15px 0px 0px;
+    }
+
+    .contact {
+        border: none;
+    }
+
+    .client-login {
+        border: none;
+        margin-top: 30px;
+
+    }
+
+    .btn {
+        padding: 20px 25px 20px 25px;
+
+    }
+
+    .close {
+        font-size: 50px;
+        font-weight: 50;
+        border: 0px;
+        margin-right: 20px;
+
+    }
+
+    .centre-col {
+        border-right: none;
+        border-left: none;
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+
+    }
+
+    .links {
+        font-size: 17px;
+        font-weight: 200;
+        border-bottom: 1px solid #fff;
+        margin-top: 40px;
+        padding-bottom: 10px;
+        width: 100%;
+
+    }
+
+    .footer-links {
+        font-size: 15px;
+        font-weight: 200;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        color: #fff;
+
+    }
+
+    .links-footer-3 {
+        width: 90%;
+        float: left;
+        margin-left: 25px;
+
+
+    }
+
+    .links-footer-2 {
+        width: 90%;
+        float: left;
+        margin-left: 25px;
+    }
+
+    .links-footer-1 {
+        width: 90%;
+        margin-left: 25px;
+    }
+
+    .google-map {
+        width: 100%;
+    }
+
+    .tel-welcome-3 {
+        border: none;
+    }
+
+
+
+    .participants-img {
+        width: 100%;
+        
+    }
+
+
+
+}
+
+@media (max-width: 320px) {
+
+    .logo-header {
+        width: 70%;
+    }
+
+    .participants {
+        
+
+    }
+
+
+}
+
+@media (min-width:576px) and (max-width: 1200px) {
+
+   
+    
+   
+    
+  
+  
+}
